@@ -1,3 +1,5 @@
+<h2> Hi 👋, I am Dilnoza </h2>
+
 <h3 align="center">I am CS student at South East European University (SEEU)</h3>
 
 
@@ -29,6 +31,6 @@
 <div align="center">
 <a href="https://github.com/dila-y">
 
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dila-y&theme=vision_friendly_dark" height="180em" />
+
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dila-y&theme=2077" height="180em" />
 </div>
