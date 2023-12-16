@@ -1,7 +1,6 @@
 <h3 align="center">I am CS student at South East European University (SEEU)</h3>
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dila-y&theme=" alt="dila-y" /></a> </p>
 
 <div> <a href="https://github.com/dila-y" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 </div><h3 align="left">Languages and Tools:</h3>
@@ -29,9 +28,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
 <div align="center">
 <a href="https://github.com/dila-y">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=dila-y&theme=2077" height="180em" />
+
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dila-y&theme=vision_friendly_dark" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dila-y&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dila-y&theme=2077" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dila-y&theme=2077" height="180em" />
 </div>
