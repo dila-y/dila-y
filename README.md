@@ -1,6 +1,6 @@
 <h2> Hi 👋, I am Dilnoza </h2>
 
-<h3 align="center">I am CS student at South East European University (SEEU)</h3>
+<h3 align="center">I am Cybersecuirty Ethusiast </h3>
 
 
 
